@@ -18,5 +18,5 @@ There are 3 categories defined :
 
 ##Example:
 '''
-http://localhost:8082/mapping?val=12&val=2&category=Furniture
+http://localhost:8001/mapping?val=12&val=2&category=Furniture
 '''
